@@ -1,7 +1,7 @@
 # Sistema de Gestión de Biblioteca
 
 ## Autor
-Nombre del estudiante
+Salomé Rivadeneira León
 
 ## Descripción
 
